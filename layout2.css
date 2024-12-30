@@ -1,0 +1,113 @@
+body {
+    padding: 0;
+    margin: 0;
+  }
+  
+  .main {
+    width: 99%;
+    height: 757px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 8px;
+    padding-left: 8px;
+  }
+  
+  .section1 {
+    height: 750px;
+    width: 450px;
+    /* border: 1px solid black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+   
+  }
+  
+  .first {
+    height: 360px;
+    width: 450px;
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/003/614/051/non_2x/bengal-tiger-lying-down-photo.jpg);
+    background-size: cover;
+  }
+  
+  .second {
+    height: 360px;
+    width: 450px;
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/027/883/255/non_2x/cute-tiger-cub-baby-tiger-photo.jpg);
+    background-size: cover;
+  }
+  
+  .section2 {
+    height: 750px;
+    width: 470px;
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/026/646/594/non_2x/ai-generated-ai-generative-nature-outdoor-landscape-of-yacht-marine-boat-ship-at-dock-port-harbour-vacation-relax-landscape-background-vibe-graphic-art-photo.jpg);
+    background-size: cover;
+  }
+  
+  .section3 {
+    height: 755px;
+    width: 460px;
+    /* border: 1px solid black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+  
+  .upper{
+    height: 190px;
+    width: 460px;
+    /* border: 1px solid black; */
+    background-image: url(https://static.vecteezy.com/system/resources/previews/006/627/317/non_2x/realistic-3d-earth-lyustration-courtesy-of-nasa-man-in-space-photo.jpg);
+    background-size: cover;
+    border-radius: 10px;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/026/189/118/non_2x/lightning-bolts-or-strikes-natural-disaster-ai-generated-photo.jpg);
+    background-size: cover;
+  }
+  
+  .middle{
+    height: 300px;
+    width: 460px;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .lower{
+    height: 190px;
+    width: 460px;
+    /* border: 1px solid black; */
+    background-image: url(https://static.vecteezy.com/system/resources/previews/006/627/317/non_2x/realistic-3d-earth-lyustration-courtesy-of-nasa-man-in-space-photo.jpg);
+    background-size: auto;
+    border-radius: 10px;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/006/627/317/non_2x/realistic-3d-earth-lyustration-courtesy-of-nasa-man-in-space-photo.jpg);
+    background-size: cover;
+  }
+  
+  .box1{
+    height: 300px;
+    width: 400px;
+    /* border: 1px solid black; */
+    background-image: url(https://static.vecteezy.com/system/resources/previews/006/646/384/non_2x/abstract-space-background-3-free-photo.jpg);
+    background-size: cover;
+    border-radius: 10px;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/009/721/912/non_2x/moon-and-birds-in-the-night-sky-photo.jpg);
+    background-size: cover;
+  }
+  
+  .box2{
+    height: 300px;
+    width: 400px;
+    /* border: 1px solid black; */
+    background-image: url(https://cdn.pixabay.com/photo/2023/03/15/20/46/background-7855413_1280.jpg);
+    background-size: cover;
+    border-radius: 10px;
+    background-image: url(https://statusneo.com/wp-content/uploads/2023/02/MicrosoftTeams-image551ad57e01403f080a9df51975ac40b6efba82553c323a742b42b1c71c1e45f1.jpg);
+    background-size: cover;
+  }
